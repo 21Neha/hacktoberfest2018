@@ -626,3 +626,9 @@ Name: [Shreyansh Kulshreshtha](http://github.com/shreyanshkuls)<br />
 Place: Mandi, Himachal Pradesh, India<br />
 About: Undergraduate student, Music enthusiast, like programming<br />
 Programming Languages: C, C++<br />
+
+Name: [Rachit](http://github.com/RachitN)
+Place: Noida
+About: Final Year Btech Student, Love Coding.
+Programming Language: Python,java
+Email: rachitnagwani13@gmail.com
